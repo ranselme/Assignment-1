@@ -1,7 +1,7 @@
 # Repertoire Test
 Mon premier répertoire ! <3
 
-Donc ce repertoire contient tout ce qui est utile pour mon premier de devoir de Stats !
+Donc ce repertoire contient tout ce qui est utile (ou pas) pour les cours de Stats !
 
 Coucou ! Ça fonctionne ?
 Nan... Ça fonctionne pas encore...
